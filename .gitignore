@@ -1,1 +1,2 @@
-/hmc.code-workspace
+*.code-workspace
+*.pyc
